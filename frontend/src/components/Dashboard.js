@@ -10,7 +10,7 @@ const Dashboard = () => {
         setLoading(true);
         setError('');
         try {
-            const response = await fetch('http://localhost:3001/api/update-data');
+            const response = await fetch('/api/update-data');
             if (!response.ok) {
                 throw new Error('Erro ao buscar dados');
             }
