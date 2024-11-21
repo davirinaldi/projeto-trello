@@ -1,0 +1,76 @@
+{
+  "lists": [
+    {
+      "name": "Na agenda",
+      "total": 6,
+      "saldo": 0,
+      "cloud": 0,
+      "cloudBasePadrao": 0,
+      "adicional": 0,
+      "outros": 6
+    },
+    {
+      "name": "Próximas Semanas",
+      "total": 0,
+      "saldo": 0,
+      "cloud": 0,
+      "cloudBasePadrao": 0,
+      "adicional": 0,
+      "outros": 0
+    },
+    {
+      "name": "Agendado para fazer na semana",
+      "total": 5,
+      "saldo": 0,
+      "cloud": 2,
+      "cloudBasePadrao": 2,
+      "adicional": 0,
+      "outros": 5
+    },
+    {
+      "name": "Pegar banco de dados",
+      "total": 4,
+      "saldo": 0,
+      "cloud": 0,
+      "cloudBasePadrao": 0,
+      "adicional": 0,
+      "outros": 4
+    },
+    {
+      "name": "Adicionais/Saldos",
+      "total": 3,
+      "saldo": 0,
+      "cloud": 0,
+      "cloudBasePadrao": 0,
+      "adicional": 3,
+      "outros": 0
+    },
+    {
+      "name": "Fazendo",
+      "total": 3,
+      "saldo": 0,
+      "cloud": 0,
+      "cloudBasePadrao": 0,
+      "adicional": 0,
+      "outros": 3
+    },
+    {
+      "name": "Testar",
+      "total": 0,
+      "saldo": 0,
+      "cloud": 0,
+      "cloudBasePadrao": 0,
+      "adicional": 0,
+      "outros": 0
+    },
+    {
+      "name": "Entregue",
+      "total": 33,
+      "saldo": 9,
+      "cloud": 9,
+      "cloudBasePadrao": 5,
+      "adicional": 8,
+      "outros": 16
+    }
+  ]
+}

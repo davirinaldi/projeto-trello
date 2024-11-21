@@ -1,0 +1,67 @@
+.dashboard-container {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f9;
+    min-height: 100vh;
+}
+
+.title {
+    font-size: 2rem;
+    color: #4a4a8c;
+    margin-bottom: 20px;
+}
+
+.fetch-button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.fetch-button:hover {
+    background-color: #357ab8;
+}
+
+.loading-text {
+    font-size: 1.2rem;
+    color: #ff9900;
+}
+
+.error-text {
+    font-size: 1.2rem;
+    color: #d9534f;
+}
+
+.list-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 20px;
+}
+
+.list-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    width: 250px;
+    text-align: left;
+}
+
+.list-card h2 {
+    font-size: 1.5rem;
+    color: #4a4a8c;
+    margin-bottom: 10px;
+}
+
+.list-card p {
+    font-size: 1rem;
+    margin: 5px 0;
+}
